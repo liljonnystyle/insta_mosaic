@@ -1,0 +1,9 @@
+#!/bin/bash
+
+username=liljonnystyle
+subimgsize=20
+nimages=0
+
+#./instagram.py -u ${username}
+#./images2sql.py
+./mosaic.py -s ${subimgsize} -n ${nimages}
