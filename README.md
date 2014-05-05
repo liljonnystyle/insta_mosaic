@@ -4,6 +4,7 @@ insta_mosaic
 build mosaic from instagram images
 
 langugages used: Python, bash
+
 python libraries used: numpy, re, os, mechanize, BeautifulSoup, hashlib, Image, optparse, MySQLdb, math
 
 1. instagram.py is a python code which scrapes Instagram for images by iterating through a growing list of usernames found during the scraping process. The images are downloaded locally.
